@@ -4,8 +4,8 @@
 def add(a, b):
     return a + b
 
-def haha(a):
-    print(a)
+def debug(text):
+    print(text)
 
 
 if __name__ == '__main__':
