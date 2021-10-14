@@ -1,4 +1,3 @@
-from pyramid import config
 from pyramid.config import Configurator
 from pyramid.response import Response
 
